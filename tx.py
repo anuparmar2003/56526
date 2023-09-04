@@ -1,1 +1,1 @@
-print("this is git ommand")
+print("this 1st git ommand")
